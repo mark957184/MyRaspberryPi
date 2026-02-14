@@ -47,8 +47,3 @@ app = TempMonitorApp(root)
 root.mainloop()
 
 # unfortunately the always-on-top functionality is not considered in subsystems like Debian in WSL, but in the raspberry it will work gracefully
-
-'''
-
-
-'''
