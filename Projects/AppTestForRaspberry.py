@@ -1,10 +1,3 @@
-'''
-DAY 19: App test for Raspberry
-Today I Learned from the VS code welcome page that I can create a Python environment to code an app, so I thought to create an app for my Raspberry
-The app I want to create will constantly check the CPU's temperature and outputs it in a always-on-top UI
-as maybe I don't have the needed capabilities, this project will probably last some days:
-'''
-
 # THIS CODE IS MADE ON A DEBIAN ENVIROMENT
 
 import tkinter as tk
@@ -56,5 +49,6 @@ root.mainloop()
 # unfortunately the always-on-top functionality is not considered in subsystems like Debian in WSL, but in the raspberry it will work gracefully
 
 '''
+
 
 '''
